@@ -87,11 +87,10 @@ Class is split in groups of 2 students: Mix Mac and PC users. Balance the most t
 - Course objective: Learn basics of product design, get 3-5 mockup views.
 - [Slides](https://github.com/tgenaitay/ESSCA/tree/master/3-UI-Course)
 
-[Useful Sketch assets here](https://github.com/tgenaitay/ESSCA/tree/master/3-UI-Course/Sketch-files)
 
 1. **Lecture:** Introduction of Design for Non-Designers, with free design assets, demo of Sketch for Mac users and introduction to Figma and Gravit for PC users.
 
-2. **1-hour Assignment:** design a 2-page Mini program with Sketch, Figma or Gravit.
+2. **1-hour Assignment:** design a 2-page Mini program with Sketch, Figma or Gravit. [Useful Sketch assets to download here](https://github.com/tgenaitay/ESSCA/tree/master/3-UI-Course/Sketch-files)
 
 3. **Homework:** Students must prepare a Marvel prototype or a PPT deck to present the mockups and get feedbacks/sign off from the “clients”.
 
