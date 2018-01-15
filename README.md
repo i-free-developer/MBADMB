@@ -70,7 +70,7 @@ Class is split in groups of 2 students: Mix Mac and PC users. Balance the most t
 
 ## Mini-Programs 101 - 3 hours
 
-- Date: January 16, 2017
+- Date: January 16, 2018
 - Trainer: Thibault Genaitay
 - Course objective: Understand the WeChat Mini Programs ecosystem and how to use them for business
 - [Slides](https://github.com/tgenaitay/ESSCA/tree/master/2-Mini-Programs)
@@ -81,7 +81,7 @@ Class is split in groups of 2 students: Mix Mac and PC users. Balance the most t
 
 ## UI design - 3 hours
 
-- Date: January 16, 2017
+- Date: January 16, 2018
 - Trainer: Thibault Genaitay
 - TA: Harrison Kim
 - Course objective: Learn basics of product design, get 3-5 mockup views.
@@ -97,7 +97,7 @@ Class is split in groups of 2 students: Mix Mac and PC users. Balance the most t
 
 ## HTML-CSS - 3 hours
 
-- Date: January 22, 2017
+- Date: January 22, 2018
 - Trainer: Thibault Genaitay
 - TA: Audrey Gourdji
 - Course objective: Front-end development basics - how to read and build the markup of a webview
@@ -116,7 +116,7 @@ Resources:
 
 ## Introduction to Javascript - 3 hours
 
-- Date: January 22, 2017
+- Date: January 22, 2018
 - Trainer: Thibault Genaitay
 - TA: Audrey Gourdji
 - Course objective: Front-end development basics - getting started with Javascript and data storage
@@ -127,7 +127,7 @@ Resources:
 
 ## WeChat Logical Layer - 3 hours
 
-- Date: January 23, 2017
+- Date: January 23, 2018
 - Trainer: Thibault Genaitay
 - TA: Audrey Gourdji
 - Course objective: Front-end development advanced - Javascript in Mini Programs
@@ -141,6 +141,6 @@ Resources:
 Teams present their products to the “clients”
 
 
-- Date: February 1, 2017
+- Date: February 1, 2018
 - Trainer: Thibault Genaitay
 - Course objective: Demo products
