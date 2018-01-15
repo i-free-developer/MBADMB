@@ -72,7 +72,6 @@ Class is split in groups of 2 students: Mix Mac and PC users. Balance the most t
 
 - Date: January 16, 2017
 - Trainer: Thibault Genaitay
-- TA: Harrison Kim
 - Course objective: Understand the WeChat Mini Programs ecosystem and how to use them for business
 - [Slides](https://github.com/tgenaitay/ESSCA/tree/master/2-Mini-Programs)
 
@@ -90,7 +89,7 @@ Class is split in groups of 2 students: Mix Mac and PC users. Balance the most t
 
 [Useful Sketch assets here](https://github.com/tgenaitay/ESSCA/tree/master/3-UI-Course/Sketch-files)
 
-1. **Lecture:** Introduction of Design for Non-Designers, Introduction to free design assets, Introduction to Introduction to Figma and Gravit for PC users.
+1. **Lecture:** Introduction of Design for Non-Designers, with free design assets, demo of Sketch for Mac users and introduction to Figma and Gravit for PC users.
 
 2. **1-hour Assignment:** design a 2-page Mini program with Sketch, Figma or Gravit.
 
@@ -138,5 +137,10 @@ Resources:
 2. **2h Assignment:** Students are provided a data object with GPS coordinates of shops, they build a map with a Store Locator.
 
 ## Demos - 3 hours
+
 Teams present their products to the “clients”
 
+
+- Date: February 1, 2017
+- Trainer: Thibault Genaitay
+- Course objective: Demo products
