@@ -16,9 +16,12 @@ December 2017
 - Date: December 14, 2017
 - Trainer: Thibault Genaitay
 - Course objective: Deep-dive into the WeChat back-end and understand the daily work of Social Media executives in China.
+- [Slides](https://github.com/tgenaitay/ESSCA/tree/master/1-Official-Accounts)
+
 I. **What consumer brands usually do in WeChat (1 hour)**
 
 Official channel, broadcasts, acquisition, customer service, drive to store, image, third-part tools... We take examples of real brands: Berluti, Tory Burch, Officine Panerai..
+
 II. **The job of social media managers/account executives (1 hour)**
 
 Students login themselves on a playground WeChat account and experiment with it!
@@ -34,7 +37,8 @@ Discover the daily tasks of social media executives:
 
 ***Pre-requisite:*** each student must follow LeWagonBravo OA (*gh_e722a50255c7*) and accept the admin binding, prior to the course
 
- III. **Assignment (team work, 1 hour)**
+III. **Assignment (team work, 1 hour)**
+
 Build a proposal: setup & retainer for a brand
 
 Context: A foreign brand wants to enter Chinese market (Belgium chocolate maker, French luxury shoes, American sunglasses) and is asking you a reco about how to run its WeChat presence. You have a meeting next week with the brand manager and required to come up with a proposal:
@@ -70,6 +74,7 @@ Class is split in groups of 2 students: Mix Mac and PC users. Balance the most t
 - Trainer: Thibault Genaitay
 - TA: Harrison Kim
 - Course objective: Understand the WeChat Mini Programs ecosystem and how to use them for business
+- [Slides](https://github.com/tgenaitay/ESSCA/tree/master/2-Mini-Programs)
 
 1. **Lecture:** What are Mini Programs, what they can and can't do, how to promote them
 
@@ -81,8 +86,9 @@ Class is split in groups of 2 students: Mix Mac and PC users. Balance the most t
 - Trainer: Thibault Genaitay
 - TA: Harrison Kim
 - Course objective: Learn basics of product design, get 3-5 mockup views.
+- [Slides](https://github.com/tgenaitay/ESSCA/tree/master/3-UI-Course)
 
-[Useful Sketch assets here](https://github.com/tgenaitay/ESSCA/tree/master/3-UI%20course/Sketch%20files)
+[Useful Sketch assets here](https://github.com/tgenaitay/ESSCA/tree/master/3-UI-Course/Sketch-files)
 
 1. **Lecture:** Introduction of Design for Non-Designers, Introduction to free design assets, Introduction to Introduction to Figma and Gravit for PC users.
 
