@@ -4,7 +4,7 @@ Practice Javascript in a real environment!
  
 ## Background & Objectives
 
-In this challenge, you will build a 1-page website and use some **libraries** to animate it** 😉
+In this challenge, you will build a 1-page website and use some **libraries** to animate it 😉
 
 Refresher:
 
@@ -27,7 +27,7 @@ Always start with the markup.
 
 **Do it now!**
 
-[Click here to reveal the solution](solution-1.md)
+[Click here to reveal the solution](solution-1.html)
 
 ## Step 2
 
@@ -75,7 +75,7 @@ function myFunction() {
 
 **Do it now!**
 
-[Click here to reveal the solution](solution-2.md)
+[Click here to reveal the solution](solution-2.js)
 
 ## Step 4
 

@@ -100,15 +100,15 @@ Class is split in groups of 2 students: Mix Mac and PC users. Balance the most t
 - Trainer: Thibault Genaitay
 - TA: Audrey Gourdji
 - Course objective: Front-end development basics - how to read and build the markup of a webview
+- [Slides](https://github.com/tgenaitay/MBADMB/tree/master/4-HTML)
 
 1. **Lecture part 1:** reminder: HTML/CSS intro in Chrome
-[(Slides)](https://github.com/tgenaitay/MBADMB/tree/master/4-HTML)
 
-2. **Lecture part 2:** reminder: APIs/JSON [(Slides)](https://github.com/tgenaitay/MBADMB/tree/master/4-HTML)
+2. **Lecture part 2:** reminder: APIs/JSON
 
-2. **Lecture part 3:** WeChat Mini Program: Setting up and coding WXML components [(Slides)](https://github.com/tgenaitay/MBADMB/tree/master/4-HTML)
+3. **Lecture part 3:** WeChat Mini Program: Setting up and coding WXML components
 
-3. **1-hour Assignment**: students code their own views and components in HTML/CSS.
+4. **1-hour Assignment**: Setup WeChat IDE and code your first view! 👉 [go through this exercise](4-HTML)
 
 **Resources:**
 
@@ -124,7 +124,7 @@ Class is split in groups of 2 students: Mix Mac and PC users. Balance the most t
 
 1. **Lecture:** JavaScript language basics and HTTP
 
-2. **1h Assignment:** Experiment in your browser! [go through this exercise](5-Javascript)
+2. **1h Assignment:** Experiment in your browser! 👉 [go through this exercise](5-Javascript)
 
 ## WeChat Logical Layer - 3 hours
 
@@ -136,7 +136,7 @@ Class is split in groups of 2 students: Mix Mac and PC users. Balance the most t
 1. **Lecture:** Introduction to the data binding (JavaScript), the life-cycle functions and primary WeChat APIs.
 
 2. **2h Assignment:** Build a Store Locator!
-[go through this exercise](6-WeChat-Logical)
+👉 [go through this exercise](6-WeChat-Logical)
 
 ## Demos - 3 hours
 
