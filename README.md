@@ -16,7 +16,7 @@ December 2017
 - Date: December 14, 2017
 - Trainer: Thibault Genaitay
 - Course objective: Deep-dive into the WeChat back-end and understand the daily work of Social Media executives in China.
-- [Slides](https://github.com/tgenaitay/ESSCA/tree/master/1-Official-Accounts)
+- [Slides](https://github.com/tgenaitay/MBADMB/tree/master/1-Official-Accounts)
 
 I. **What consumer brands usually do in WeChat (1 hour)**
 
@@ -73,7 +73,7 @@ Class is split in groups of 2 students: Mix Mac and PC users. Balance the most t
 - Date: January 16, 2018
 - Trainer: Thibault Genaitay
 - Course objective: Understand the WeChat Mini Programs ecosystem and how to use them for business
-- [Slides](https://github.com/tgenaitay/ESSCA/tree/master/2-Mini-Programs)
+- [Slides](https://github.com/tgenaitay/MBADMB/tree/master/2-Mini-Programs)
 
 1. **Lecture:** What are Mini Programs, what they can and can't do, how to promote them
 
@@ -85,12 +85,12 @@ Class is split in groups of 2 students: Mix Mac and PC users. Balance the most t
 - Trainer: Thibault Genaitay
 - TA: Harrison Kim
 - Course objective: Learn basics of product design, get 3-5 mockup views.
-- [Slides](https://github.com/tgenaitay/ESSCA/tree/master/3-UI-Course)
+- [Slides](https://github.com/tgenaitay/MBADMB/tree/master/3-UI-Course)
 
 
 1. **Lecture:** Introduction of Design for Non-Designers, with free design assets, demo of Sketch for Mac users and introduction to Figma and Gravit for PC users.
 
-2. **1-hour Assignment:** design a 2-page Mini program with Sketch, Figma or Gravit. [Useful Sketch assets to download here](https://github.com/tgenaitay/ESSCA/tree/master/3-UI-Course/Sketch-files)
+2. **1-hour Assignment:** design a 2-page Mini program with Sketch, Figma or Gravit. [Useful Sketch assets to download here](https://github.com/tgenaitay/MBADMB/tree/master/3-UI-Course/Sketch-files)
 
 3. **Homework:** Students must prepare a Marvel prototype or a PPT deck to present the mockups and get feedbacks/sign off from the “clients”.
 
@@ -101,17 +101,19 @@ Class is split in groups of 2 students: Mix Mac and PC users. Balance the most t
 - TA: Audrey Gourdji
 - Course objective: Front-end development basics - how to read and build the markup of a webview
 
-1. **Lecture part 1:** reminder HTML/CSS intro in Chrome
+1. **Lecture part 1:** reminder: HTML/CSS intro in Chrome
+[(Slides)](https://github.com/tgenaitay/MBADMB/tree/master/4-HTML)
 
-2. **Lecture part 2:** WeChat IDE: Live-coding the views of a WeChat Mini Program.
-	- [WXML: what's the deal](https://karr.lewagon.com/lectures/front/opt-wx-mini-programs#/7/1)
-	- [Built-in components](https://karr.lewagon.com/lectures/front/opt-wx-mini-programs#/9)
+2. **Lecture part 2:** reminder: APIs/JSON [(Slides)](https://github.com/tgenaitay/MBADMB/tree/master/4-HTML)
+
+2. **Lecture part 3:** WeChat Mini Program: Setting up and coding WXML components [(Slides)](https://github.com/tgenaitay/MBADMB/tree/master/4-HTML)
 
 3. **1-hour Assignment**: students code their own views and components in HTML/CSS.
 
-Resources:
+**Resources:**
 
-- Official list of [WeChat components](http://open.wechat.com/cgi-bin/newreadtemplate?t=overseas_open/docs/mini-programs/development/component/index#component_index) (English)
+- Download the [WeChat IDE here](https://mp.weixin.qq.com/debug/wxadoc/dev/devtools/download.html) (Chinese)
+- Browse the official list of [WeChat components](http://open.wechat.com/cgi-bin/newreadtemplate?t=overseas_open/docs/mini-programs/development/component/index#component_index) (English)
 
 ## Introduction to Javascript - 3 hours
 
@@ -120,25 +122,25 @@ Resources:
 - TA: Audrey Gourdji
 - Course objective: Front-end development basics - getting started with Javascript and data storage
 
-1. **Lecture:** JavaScript language basics, JSON objects and APIs.
+1. **Lecture:** JavaScript language basics and HTTP
 
-2. **1h Assignment:** go through CodeCademy exercises to learn how to make API requests
+2. **1h Assignment:** Experiment in your browser! [go through this exercise](5-Javascript)
 
 ## WeChat Logical Layer - 3 hours
 
 - Date: January 23, 2018
 - Trainer: Thibault Genaitay
 - TA: Audrey Gourdji
-- Course objective: Front-end development advanced - Javascript in Mini Programs
+- Course objective: Front-end development advanced - WXML/Javascript in Mini Programs
 
 1. **Lecture:** Introduction to the data binding (JavaScript), the life-cycle functions and primary WeChat APIs.
 
-2. **2h Assignment:** Students are provided a data object with GPS coordinates of shops, they build a map with a Store Locator.
+2. **2h Assignment:** Build a Store Locator!
+[go through this exercise](6-WeChat-Logical)
 
 ## Demos - 3 hours
 
-Teams present their products to the “clients”
-
+Teams present their Store Locators to the “clients”
 
 - Date: February 1, 2018
 - Trainer: Thibault Genaitay
