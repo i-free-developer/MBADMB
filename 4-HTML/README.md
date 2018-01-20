@@ -34,7 +34,7 @@ Install the WeChat IDE on your computer.
 - `page.wxss` is the style of your WeChat view
 - you can also use the `app.wxss` to apply global style on all views of your app...
 
-### Create your first view
+### 1. Create your first view
 
 1. In WXML, instead of `<div>` we use the `<view>` tag.
 2. `H1`, `H2`, `P` etc are replaced by a unique `<text>` tag.
@@ -51,17 +51,17 @@ Tips:
 
 - To get a picture of Shanghai in the background, you can inject this inline style on your main view: `style="background-image: linear-gradient(-225deg, rgba(100,100,100,0.6) 0%, rgba(30,30,30,0.6) 50%), url('https://kitt.lewagon.com/placeholder/cities/shanghai');"`
 - Here's the [TESLA logo](https://daks2k3a4ib2z.cloudfront.net/547414e29422435b31d2b20a/5474157d427d445d31bd5709_tesla-logo.svg)
-- Did you know you could cover an entire page thanks to `height: 100vh;` (vh is a special unit, for *viewport-height*) ?
-- Have you ever heard of **CSS Flexbox**? This technique is very  convenient to center elements in the page... and fully compatible with WeChat.  
+- Did you know you can cover an entire page thanks to `height: 100vh;` ? (vh is a special unit, for *viewport-height*)
+- Have you ever heard of **CSS Flexbox**? This technique is very  convenient to center elements in the page... and fully compatible with WeChat. Look it up now.
 
-### Link to another view
+### 2. Link to another view
 
 1. Add a new page in `app.json`
-2. Links can be made with
+2. Links can be made with:
  - the 'tabbar' in `app.json`
  - or the `<navigator>` component (👉[documentation here](http://open.wechat.com/cgi-bin/newreadtemplate?t=overseas_open/docs/mini-programs/development/component/navigator#component_navigator))
 
-### Explore the components library!
+### 3. Explore the components library!
 
 The WeChat framework provides series of base components for developers to build fast. 
 
