@@ -108,7 +108,7 @@ Class is split in groups of 2 students: Mix Mac and PC users. Balance the most t
 
 3. **Lecture part 3:** WeChat Mini Program: Setting up and coding WXML components
 
-4. **1-hour Assignment**: Setup WeChat IDE and code your first view! 👉 [go through this exercise](4-HTML)
+4. **1-hour Assignment**: Setup the WeChat IDE and code your first view! 👉 [go through this exercise](4-HTML)
 
 **Resources:**
 
@@ -121,6 +121,7 @@ Class is split in groups of 2 students: Mix Mac and PC users. Balance the most t
 - Trainer: Thibault Genaitay
 - TA: Audrey Gourdji
 - Course objective: Front-end development basics - getting started with Javascript and data storage
+- [Slides](https://github.com/tgenaitay/MBADMB/tree/master/5-Javascript)
 
 1. **Lecture:** JavaScript language basics and HTTP
 
@@ -132,6 +133,7 @@ Class is split in groups of 2 students: Mix Mac and PC users. Balance the most t
 - Trainer: Thibault Genaitay
 - TA: Audrey Gourdji
 - Course objective: Front-end development advanced - WXML/Javascript in Mini Programs
+- [Slides](https://github.com/tgenaitay/MBADMB/tree/master/6-WeChat-Logical)
 
 1. **Lecture:** Introduction to the data binding (JavaScript), the life-cycle functions and primary WeChat APIs.
 
