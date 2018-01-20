@@ -1,4 +1,5 @@
-# WeChat Services management
+**WeChat Services**
+
 Crash course by Le Wagon China
 
 Trainer: Thibault Genaitay
