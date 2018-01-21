@@ -4,7 +4,9 @@ Apply your Javascript Skills in the WeChat framework
  
 ## Background & Objectives
 
-In this challenge, you will build the 2nd page of your Wechat program, using advanced **WXML** capabilities and some **built-in APIs**.
+In this challenge, you will build the 2nd page of your Wechat program Store Locator, using advanced **WXML** capabilities and some **built-in APIs**.
+
+![capture](capture.gif)
 
 Refresher:
 
