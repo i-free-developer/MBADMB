@@ -54,6 +54,8 @@ Tips:
 - Did you know you can cover an entire page thanks to `height: 100vh;` ? (vh is a special unit, for *viewport-height*)
 - Have you ever heard of **CSS Flexbox**? This technique is very  convenient to center elements in the page... and fully compatible with WeChat. Look it up now.
 
+[Click here to reveal the solution](solution/)
+
 ### 2. Link to another view
 
 1. Add a new page in `app.json`

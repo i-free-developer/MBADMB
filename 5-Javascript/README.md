@@ -1,7 +1,7 @@
 # JS/DOM exercise
 
 Practice Javascript in a real environment!
- 
+
 ## Background & Objectives
 
 In this challenge, you will build a 1-page website and use some **libraries** to animate it 😉
@@ -57,13 +57,13 @@ Reminder: Javascript always goes just before the `</body>` tag.
 
 ### HTML
 
-1. Inject a `<script>` tag that works
+1. Inject a `<script>` tag that works! 
 2. Give **ids** (`id='idname'`) to your HTML elements
 
 ### Javascript
 
-1. Use a `console.log('test message')` to make sure your JS file works...
-2. Add **event listeners** in JavaScript to detect the `click` events on your **ids** (👉 [documentation](https://www.w3schools.com/js/js_htmldom_eventlistener.asp))
+1. Use a `console.log('test message')` or `window.alert('test')` to make sure your JS file works...
+2. Add **event listeners** in JavaScript to detect the `click` events on your **ids** (👉 [eventlistener documentation](https://www.w3schools.com/js/js_htmldom_eventlistener.asp))
 3. Test your event listeners with this function:
 
 ```
@@ -71,7 +71,7 @@ function myFunction() {
     alert ("Hello World!");
 }
 ```
-4. Write a new `function` named **`animate()`** which will add new CSS classes to the element clicked. (👉[documentation](https://www.w3schools.com/jsref/prop_element_classlist.asp))
+4. Write a new `function` named **`animate()`** which will add new CSS classes to the element clicked. In particular, you want to dynamically add the classes `animated`, `infinite` and `pulse`. (👉[classList documentation](https://www.w3schools.com/jsref/prop_element_classlist.asp))
 
 **Do it now!**
 

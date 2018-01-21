@@ -1,0 +1,61 @@
+/**app.wxss**/
+
+page {
+  font-size: 32rpx;
+  line-height: 1.6;
+  font-family: Avenir, Helvetica, sans-serif;
+  width:90%;
+  margin: 0 auto;
+}
+
+.h1 {
+  font-size: 30px;
+  font-weight: bold;
+  text-shadow: 0px 1px rgba(0, 0, 0, 0.2);
+}
+
+.h2 {
+  font-size: 25px;
+  font-weight: lighter;
+  color: rgb(255, 255, 255);
+  opacity: 0.6;
+  margin-bottom: 30px;
+}
+
+.h3 {
+  font-weight:bold;
+  font-size: 30rpx; 
+  color:white;
+  margin:30px 0px 10px 0px;
+  display: inline-block;
+}
+
+.sep {
+  border-bottom:1px solid lightgray;
+}
+
+.em {
+  font-style: italic;
+  color:#D03232;
+}
+
+.strong{
+  font-weight: bold;
+}
+
+.tc{
+  text-align: center;
+}
+
+.tl{
+  text-align: left;
+}
+
+.cta {
+  background-color:white;
+  color:black;
+}
+
+.cta:hover {
+  opacity:0.6;
+}

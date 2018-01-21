@@ -1,0 +1,8 @@
+<view class="banner" style="background-image: linear-gradient(-225deg, rgba(100,100,100,0.6) 0%, rgba(30,30,30,0.6) 50%), url('https://kitt.lewagon.com/placeholder/cities/shanghai');">
+  <view>
+    <image src='/image/tesla-logo.svg' style="width: 100px; height: 100px;"></image>  
+    <view class="h1">Locate a station</view>
+    <view class="h2">Your car is waiting</view>
+    <navigator url="../map/map" hover-class="navigator-hover">Locate a store</navigator>
+  </view>
+</view>
