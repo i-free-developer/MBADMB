@@ -141,3 +141,23 @@ Class is split in groups of 2 students: Mix Mac and PC users. Balance the most t
 2. **2h Assignment:** Build a Store Locator!
 👉 [go through this exercise](6-WeChat-Logical)
 
+## Wrap up!
+
+1. Brands require  social media executives like you, to manage **official accounts** and serve their customers through WeChat
+
+2. **Mini Programs** are a great extension of your account for fast sales, great service, added-value content. **You got an idea?** The best way to get started is looking at the market, browsing stores and writing down a **scope of work**.
+
+3. Before jumping RIGHT into code, you want to **design mockups yourself** and show it around for feedbacks. Use Sketch, Figma or any **prototyping tool**. Iterate.
+
+4. HTML is the markup language to structure a page. **WXML** is its (smarter) equivalent in the **WeChat world**. They work with CSS for design.
+
+5. **Javascript** is a powerful language to play with data and animate your web-pages. Tencent gives us tons of **Application Programming Interface** in Javascript to animate Mini Programs.
+
+6. The WeChat MP framework is built upon a binding of **WXML <> JS**. They always work together:
+
+- WXML is the **view layer**, to display stuff.
+- JS is the **logical layer**, to fetch data from outside (HTTP) and update the view.
+
+Once you have completed all the assignments, here's what you should be able to make yourself now!
+![Store](6-WeChat-logical/capture.gif)
+
