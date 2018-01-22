@@ -161,3 +161,12 @@ Class is split in groups of 2 students: Mix Mac and PC users. Balance the most t
 Once you have completed all the assignments, here's what you should be able to make yourself now!
 ![Store](6-WeChat-logical/capture.gif)
 
+## Congrats, and welcome to the WeChat development world!
+
+### Get in touch with our team:
+
+- email: shanghai@lewagon.com
+- wechat: +86 185 1217 8868
+
+Cheers!
+
