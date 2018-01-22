@@ -159,7 +159,7 @@ Class is split in groups of 2 students: Mix Mac and PC users. Balance the most t
 - JS is the **logical layer**, to fetch data from outside (HTTP) and update the view.
 
 Once you have completed all the assignments, here's what you should be able to make yourself now!
-![Store](6-WeChat-logical/capture.gif)
+![Store](6-WeChat-Logical/capture.gif)
 
 ## Congrats, and welcome to the WeChat development world!
 
