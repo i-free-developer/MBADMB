@@ -1,0 +1,9 @@
+page {
+  background-color: black;
+  color:white;
+  text-align: center;
+}
+
+map {
+  margin: 10px 0px;
+}

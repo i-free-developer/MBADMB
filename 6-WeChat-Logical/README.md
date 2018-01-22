@@ -38,8 +38,14 @@ Inject a new page named "**map**" in your `"pages"` array.
 
 Add following elements:
 	
-- A title for your page, styled like an H2!
-- A map 👉 ([check the attributes list here](http://open.wechat.com/cgi-bin/newreadtemplate?t=overseas_open/docs/mini-programs/development/component/map#component_map)) with static data
+- A title for your page... styled like an H2!
+- A map 👉 ([check the attributes list here](http://open.wechat.com/cgi-bin/newreadtemplate?t=overseas_open/docs/mini-programs/development/component/map#component_map)) with static latitude/longitude data.
+
+	E.g:
+	
+```
+<map longitude="121.47575499999994" latitude="31.232711" scale="10" style="width: 100%; height: 80vh;"></map>
+```
 
 ### WXSS
 
@@ -52,16 +58,27 @@ Add following elements:
 
 ## Step 2
 
-Setting up your map in `map.js`
+Setting up your map logic in `map.js`
 
 ### Data Binding
 
-1. Your map component should now use the mustach syntax to inject dynamic variables such as `longitude`, `lattitude`, `scale`, and of course `markers` !
-2. Add raw data in your `data: {}` object (this is at the top of your `map.js` file!) 
+1. Your **map component** should now use the {{mustach syntax}} to inject **dynamic variables** such as `longitude`, `lattitude`, `scale`, and of course `markers` !
+2. Add now some raw data in your `data: {}` object (this is at the top of your `map.js` file!) 
 
-	Tip: you can use on online [free service like this one](https://www.latlong.net/convert-address-to-lat-long.html) to calculate the GPS latitude/longitude of any address. For example, Alliance Française is Latitude 31.2485480 | Longitude 121.489422.
+	Tip: you can use on online [free service like this one](https://www.latlong.net/convert-address-to-lat-long.html) to calculate the GPS latitude/longitude of any address. For example, Alliance Française is Latitude 31.2485480 ; Longitude 121.489422.
+	
+	E.g:
+	
+	```
+	data: {
+    	latitude: "31.232711", 
+    	longitude: "121.47575499999994",
+    	scale: '10',
+    	markers: []
+  	}
+	```
 
-3. Make your first marker! They should be listed in an array. Here's an array with 1 marker only:
+3. Make your first marker! Markers should be listed in an array. Here's an array with 1 marker only:
 
 	```
 	markers: [{
@@ -76,21 +93,25 @@ Setting up your map in `map.js`
     
    **Tip 1: icon**
 	
-	- The path of your icon should start with a slash /
+	- The **iconPath** should start with a slash /
 	- Here's a marker you can use: ![marker](marker.png)
 	- You can also [make your own](http://www.iconfont.cn/search/index?q=marker)... 
 		    
 	**Tip 2: tooltip**    
    
-    Use the *callout* object in your marker to create a tooltip. 
+    Use the *callout* object **in your marker object** to create a tooltip. 
     
-    E.g  `callout: { content: "Xintiandi \n No. 230 Madang Road\n Luwan District\n Shanghai", fontSize: 15, color: "#000000", padding: 10 }` 
+    E.g  
+    
+    ```
+    callout: { content: "Xintiandi \n No. 230 Madang Road\n Luwan District\n Shanghai", fontSize: 15, color: "#000000", padding: 10 }
+    ``` 
 
 ## Step 3
 
 Let's fetch data from an API call!
 
-### Check your API
+### 1. Check your API
 
 Open this endpoint in your browser to discover the content provided by Tesla digital team:
 
@@ -101,19 +122,21 @@ They have compiled this data thanks to their own Content Management System or Ba
 👉 Our objective is to get these shop markers and inject them dynamically in the WeChat mini program **when the map page is loading** ! This is an HTTP *GET* request....
 
 
-### Use WeChat's "WX.REQUEST"
+### 2. Use WeChat's "WX.REQUEST"
 
-WX.Request is an API provided by Tencent to make network HTTP calls. We will use it to *get* all markers data when the page loads.
+WX.Request is an API provided by Tencent to make network HTTP calls. We will use it to *get* all markers data **when the page loads.**
 
-1. Locate the `onLoad: function ()` **in your map.js file**. Feel free to add some *console.log('test')* inside each part to test out the life cycle of your app..
+1. Locate the `onLoad: function ()` **in your map.js file**. Feel free to add some *console.log('test')* inside each part to test out the life cycle of your app...
 
-2. Set a variable with your API endpoint
+Complete the next steps in the body of this function now.
+
+2. Set a variable with your API endpoint. Here it is:
 	`const endpoint = 'https://easy-mock.com/mock/5a641f8a0ea0400cac5a91df/tesla/stores'`
 	
-3. We will need a pointer to the current page, in the form of a variable.
+3. We will need a pointer to the current page, in the form of a variable. Here you go:
 	`var page = this`
 	
-	If you have time, [read about the this keyword here](https://dmitripavlutin.com/gentle-explanation-of-this-in-javascript/)
+	If you have time, [read about the 'this' keyword here](https://dmitripavlutin.com/gentle-explanation-of-this-in-javascript/)
 	
 4. Create a **HTTP request** thanks to the **wx.request** API (👉 [documentation](https://www.w3schools.com/js/js_htmldom_eventlistener.asp))
 	
@@ -133,13 +156,13 @@ WX.Request is an API provided by Tencent to make network HTTP calls. We will use
       }
     })
   	```
-5. You should see data in your console log now! Reload your app.
+5. You should see data in your console log now! Reload your app to see the results logged.
 
-### Update the Data!
+### 3. Update the Data!
 
-The `setData` function is used to send data from the logical layer to the view layer, while changing the corresponding page data values.
+The `setData` function is used to **send data from the logical layer to the view layer**, while changing the corresponding page data values.
 
-Add this line inside your **success function**, right after your console.log....
+Add this line inside your **success function**, right after your *console.log(res)* ....
 
 ```
 page.setData({ markers: res.data.stores })
@@ -150,5 +173,28 @@ page.setData({ markers: res.data.stores })
 [Click here to reveal the solution](solution-2/)
 
 ## Extra step
+
+Each marker could potentially **OPEN a new page** with more details on the store. Like... *opening times*? *contact*? *appointment booking*? All of this is missing in our basic tooltips...
+
+### For the most advanced of you: 
+
+1. On the **map** component, you can use the *bindmarkertap* attribute to detect a click on each marker and **trigger an event**. 
+	
+	Here's how: `bindmarkertap="markertap"`
+	
+2. On the `map.js` file you can now initialize a **new function** to get this event and redirect visitors to the right place!
+
+	Here's what you'd add:
+	
+	```
+	markertap(e) {
+    console.log(e.markerId)
+    // checking if we know which marker was clicked
+    	wx.redirectTo({
+ 			url: 'store?id=e.markerId'
+ 			// redirecting viewer to the corresponding store page
+		})
+  	},
+  	```
 
 
