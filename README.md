@@ -141,10 +141,3 @@ Class is split in groups of 2 students: Mix Mac and PC users. Balance the most t
 2. **2h Assignment:** Build a Store Locator!
 👉 [go through this exercise](6-WeChat-Logical)
 
-## Demos - 3 hours
-
-Teams present their Store Locators to the “clients”
-
-- Date: February 1, 2018
-- Trainer: Thibault Genaitay
-- Course objective: Demo products
