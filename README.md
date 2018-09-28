@@ -1,20 +1,16 @@
-**WeChat Services**
+## WeChat Services
 
 Crash course by Le Wagon China
 
-Trainer: Thibault Genaitay
-
-- 6 years of digital agency, 4 years in luxury industry HK/SH ;
-- Management of Fine Jewelry, Luxury watches, and Premium Fashion accounts: Guerlain, Sephora, Shangri-La, Lanvin, Richemont, Cartier, Officine Panerai, Tory Burch, Berluti, Biotherm...
-- Head of operations at Le Wagon China, product development school in Shanghai and Chengdu
+- Location: ESSCA Shanghai
+- Season: Q4 2018
 
 # Part 1 / Official Accounts management
 
-December 2017
 
 ## Official Accounts management (3 hours)
 
-- Date: December 14, 2017
+- Date: 17 October 2018, 09.30h - 12.30h 
 - Trainer: Thibault Genaitay
 - Course objective: Deep-dive into the WeChat back-end and understand the daily work of Social Media executives in China.
 - [Slides](https://github.com/tgenaitay/MBADMB/tree/master/1-Official-Accounts)
@@ -49,7 +45,7 @@ The retailer is planning a boutique grand-opening in Shanghai IAPM by August 201
 
 Budget is 400,000 RMB, please detail how you allocate.
 
-## Homework
+## Homework (40h)
 Building a WeChat Mini Program requires hours of coding practice under the belt...
 
 Each student must:
@@ -65,14 +61,13 @@ Le Wagon camp students start building Mini Programs after 100h of practice. Stud
 
 # Part 2 / WeChat Mini Programs development
 
-January 2018
 
 Class is split in groups of 2 students: Mix Mac and PC users. Balance the most tech-savvy students.
 
 ## Mini-Programs 101 - 3 hours
 
-- Date: January 16, 2018
-- Trainer: Thibault Genaitay
+- Date: `11 October 2018` 09.30 - 12.30 
+- Trainer: Audrey Gourdji
 - Course objective: Understand the WeChat Mini Programs ecosystem and how to use them for business
 - [Slides](https://github.com/tgenaitay/MBADMB/tree/master/2-Mini-Programs)
 
@@ -82,9 +77,8 @@ Class is split in groups of 2 students: Mix Mac and PC users. Balance the most t
 
 ## UI design - 3 hours
 
-- Date: January 16, 2018
-- Trainer: Thibault Genaitay
-- TA: Harrison Kim
+- Date: `11 October 2018` 13.30 - 16.30
+- Trainer: Audrey Gourdji 
 - Course objective: Learn basics of product design, get 3-5 mockup views.
 - [Slides](https://github.com/tgenaitay/MBADMB/tree/master/3-UI-Course)
 
@@ -97,9 +91,8 @@ Class is split in groups of 2 students: Mix Mac and PC users. Balance the most t
 
 ## HTML-CSS - 3 hours
 
-- Date: January 22, 2018
-- Trainer: Thibault Genaitay
-- TA: Audrey Gourdji
+- Date: `13 October 2018` 09.30 - 12.30 
+- Trainer: Audrey Gourdji
 - Course objective: Front-end development basics - how to read and build the markup of a webview
 - [Slides](https://github.com/tgenaitay/MBADMB/tree/master/4-HTML)
 
@@ -118,9 +111,8 @@ Class is split in groups of 2 students: Mix Mac and PC users. Balance the most t
 
 ## Introduction to Javascript - 3 hours
 
-- Date: January 22, 2018
-- Trainer: Thibault Genaitay
-- TA: Audrey Gourdji
+- Date: `13 October 2018` 13.30 - 16.30 
+- Trainer: Audrey Gourdji
 - Course objective: Front-end development basics - getting started with Javascript and data storage
 - [Slides](https://github.com/tgenaitay/MBADMB/tree/master/5-Javascript)
 
@@ -130,9 +122,8 @@ Class is split in groups of 2 students: Mix Mac and PC users. Balance the most t
 
 ## WeChat Logical Layer - 3 hours
 
-- Date: January 23, 2018
-- Trainer: Thibault Genaitay
-- TA: Audrey Gourdji
+- Date: `13 October 2018` 09.30 - 12.30 
+- Trainer: Audrey Gourdji
 - Course objective: Front-end development advanced - WXML/Javascript in Mini Programs
 - [Slides](https://github.com/tgenaitay/MBADMB/tree/master/6-WeChat-Logical)
 
@@ -158,8 +149,11 @@ Class is split in groups of 2 students: Mix Mac and PC users. Balance the most t
 - WXML is the **view layer**, to display stuff.
 - JS is the **logical layer**, to fetch data from outside (HTTP) and update the view.
 
-Once you have completed all the assignments, here's what you should be able to make yourself now!
+
+### Once you have completed all our assignments, here's what you should be able to make yourself!
+
 ![Store](6-WeChat-Logical/capture.gif)
+
 
 ## Congrats, and welcome to the WeChat development world!
 
@@ -168,5 +162,4 @@ Once you have completed all the assignments, here's what you should be able to m
 - email: shanghai@lewagon.com
 - wechat: +86 185 1217 8868
 
-Cheers!
-
+Cheers
