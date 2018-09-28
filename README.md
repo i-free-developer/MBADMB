@@ -10,7 +10,7 @@ Crash course by Le Wagon China
 
 ## Official Accounts management (3 hours)
 
-- Date: 17 October 2018, 09.30h - 12.30h 
+- Date: `17 October 2018`, 09.30 - 12.30
 - Trainer: [Thibault Genaitay](https://github.com/tgenaitay/)
 - Course objective: Deep-dive into the WeChat back-end and understand the daily work of Social Media executives in China.
 - [Slides](https://github.com/tgenaitay/MBADMB/tree/master/1-Official-Accounts)
