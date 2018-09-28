@@ -11,7 +11,7 @@ Crash course by Le Wagon China
 ## Official Accounts management (3 hours)
 
 - Date: 17 October 2018, 09.30h - 12.30h 
-- Trainer: Thibault Genaitay
+- Trainer: [Thibault Genaitay](https://github.com/tgenaitay/)
 - Course objective: Deep-dive into the WeChat back-end and understand the daily work of Social Media executives in China.
 - [Slides](https://github.com/tgenaitay/MBADMB/tree/master/1-Official-Accounts)
 
@@ -67,7 +67,7 @@ Class is split in groups of 2 students: Mix Mac and PC users. Balance the most t
 ## Mini-Programs 101 - 3 hours
 
 - Date: `11 October 2018` 09.30 - 12.30 
-- Trainer: Audrey Gourdji
+- Trainer: [Audrey Gourdji](https://github.com/agourdji)
 - Course objective: Understand the WeChat Mini Programs ecosystem and how to use them for business
 - [Slides](https://github.com/tgenaitay/MBADMB/tree/master/2-Mini-Programs)
 
@@ -78,7 +78,7 @@ Class is split in groups of 2 students: Mix Mac and PC users. Balance the most t
 ## UI design - 3 hours
 
 - Date: `11 October 2018` 13.30 - 16.30
-- Trainer: Audrey Gourdji 
+- Trainer: [Audrey Gourdji](https://github.com/agourdji)
 - Course objective: Learn basics of product design, get 3-5 mockup views.
 - [Slides](https://github.com/tgenaitay/MBADMB/tree/master/3-UI-Course)
 
@@ -92,7 +92,7 @@ Class is split in groups of 2 students: Mix Mac and PC users. Balance the most t
 ## HTML-CSS - 3 hours
 
 - Date: `13 October 2018` 09.30 - 12.30 
-- Trainer: Audrey Gourdji
+- Trainer: [Audrey Gourdji](https://github.com/agourdji)
 - Course objective: Front-end development basics - how to read and build the markup of a webview
 - [Slides](https://github.com/tgenaitay/MBADMB/tree/master/4-HTML)
 
@@ -112,7 +112,7 @@ Class is split in groups of 2 students: Mix Mac and PC users. Balance the most t
 ## Introduction to Javascript - 3 hours
 
 - Date: `13 October 2018` 13.30 - 16.30 
-- Trainer: Audrey Gourdji
+- Trainer: [Audrey Gourdji](https://github.com/agourdji)
 - Course objective: Front-end development basics - getting started with Javascript and data storage
 - [Slides](https://github.com/tgenaitay/MBADMB/tree/master/5-Javascript)
 
@@ -123,7 +123,7 @@ Class is split in groups of 2 students: Mix Mac and PC users. Balance the most t
 ## WeChat Logical Layer - 3 hours
 
 - Date: `13 October 2018` 09.30 - 12.30 
-- Trainer: Audrey Gourdji
+- Trainer: [Audrey Gourdji](https://github.com/agourdji)
 - Course objective: Front-end development advanced - WXML/Javascript in Mini Programs
 - [Slides](https://github.com/tgenaitay/MBADMB/tree/master/6-WeChat-Logical)
 
