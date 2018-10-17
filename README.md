@@ -34,16 +34,21 @@ Discover the daily tasks of social media executives:
 
 ***Pre-requisite:*** each student must follow LeWagonBravo OA (*gh_e722a50255c7*) and accept the admin binding, prior to the course
 
-III. **Assignment (team work, 1 hour)**
+III. **Assignment (team work)**
 
 Build a proposal: setup & retainer for a brand
 
-Context: A foreign brand wants to enter Chinese market (Belgium chocolate maker, French luxury shoes, American sunglasses) and is asking you a reco about how to run its WeChat presence. You have a meeting next week with the brand manager and required to come up with a proposal:
+Context: A foreign retailer wants to enter Chinese market and is asking you a reco about how to run its WeChat presence. You have a meeting on November 1 with the brand manager and required to come up with a proposal:
 - Setup: Customized menu/ Customer services / Launch plan (acquisition)
 - Retainer: Editorial strategy / Promotion plan
-The retailer is planning a boutique grand-opening in Shanghai IAPM by August 2017.
+The retailer is planning a boutique grand-opening in Shanghai IAPM by August 2019.
 
-Budget is 400,000 RMB, please detail how you allocate.
+Budget is 600,000 RMB, please detail how you allocate.
+
+Deadline: November 1, 2018
+Send your deck (about 5 slides) to: 
+- Wechat: 18512178868
+- Email: thibault@lewagon.com
 
 ## Homework (40h)
 Building a WeChat Mini Program requires hours of coding practice under the belt...
