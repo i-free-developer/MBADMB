@@ -50,7 +50,7 @@ Send your deck (about 5 slides) to:
 - Wechat: 18512178868
 - Email: thibault@lewagon.com
 
-## Homework (40h)
+## Prepwork (40h)
 Building a WeChat Mini Program requires hours of coding practice under the belt...
 
 Each student must:
