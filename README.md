@@ -111,8 +111,8 @@ Class is split in groups of 2 students: Mix Mac and PC users. Balance the most t
 
 **Resources:**
 
-- Download the [WeChat IDE here](https://mp.weixin.qq.com/debug/wxadoc/dev/devtools/download.html) (Chinese)
-- Browse the official list of [WeChat components](http://open.wechat.com/cgi-bin/newreadtemplate?t=overseas_open/docs/mini-programs/development/component/index#component_index) (English)
+- Download the [WeChat IDE here](https://developers.weixin.qq.com/miniprogram/en/dev/devtools/download.html) (in English!)
+- Browse the official list of [WeChat components](https://developers.weixin.qq.com/miniprogram/en/dev/component/) (English)
 
 ## Introduction to Javascript - 3 hours
 
