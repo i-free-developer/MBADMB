@@ -46,7 +46,7 @@ The retailer is planning a boutique grand-opening in Shanghai IAPM by August 201
 Budget is 600,000 RMB, please detail how you allocate.
 
 Deadline: November 1, 2018
-Send your deck (about 5 slides) to: 
+Send your deck (about 5 slides) to:
 - Wechat: 18512178868
 - Email: thibault@lewagon.com
 
@@ -71,7 +71,7 @@ Class is split in groups of 2 students: Mix Mac and PC users. Balance the most t
 
 ## Mini-Programs 101 - 3 hours
 
-- Date: `11 December 2018` 09.30 - 12.30 
+- Date: `11 December 2018` 09.30 - 12.30
 - Trainer: [Audrey Gourdji](https://github.com/agourdji)
 - Course objective: Understand the WeChat Mini Programs ecosystem and how to use them for business
 - [Slides](https://github.com/tgenaitay/MBADMB/tree/master/2-Mini-Programs)
@@ -96,7 +96,7 @@ Class is split in groups of 2 students: Mix Mac and PC users. Balance the most t
 
 ## HTML-CSS - 3 hours
 
-- Date: `13 December 2018` 09.30 - 12.30 
+- Date: `13 December 2018` 09.30 - 12.30
 - Trainer: [Audrey Gourdji](https://github.com/agourdji)
 - Course objective: Front-end development basics - how to read and build the markup of a webview
 - [Slides](https://github.com/tgenaitay/MBADMB/tree/master/4-HTML)
@@ -116,18 +116,18 @@ Class is split in groups of 2 students: Mix Mac and PC users. Balance the most t
 
 ## Introduction to Javascript - 3 hours
 
-- Date: `13 December 2018` 13.30 - 16.30 
+- Date: `13 December 2018` 13.30 - 16.30
 - Trainer: [Audrey Gourdji](https://github.com/agourdji)
 - Course objective: Front-end development basics - getting started with Javascript and data storage
 - [Slides](https://github.com/tgenaitay/MBADMB/tree/master/5-Javascript)
 
-1. **Lecture:** JavaScript language basics and HTTP
+1. **Lecture:** JavaScript language basics
 
 2. **1h Assignment:** Experiment in your browser! 👉 [go through this exercise](5-Javascript)
 
 ## WeChat Logical Layer - 3 hours
 
-- Date: `14 December 2018` 09.30 - 12.30 
+- Date: `14 December 2018` 09.30 - 12.30
 - Trainer: [Audrey Gourdji](https://github.com/agourdji)
 - Course objective: Front-end development advanced - WXML/Javascript in Mini Programs
 - [Slides](https://github.com/tgenaitay/MBADMB/tree/master/6-WeChat-Logical)
